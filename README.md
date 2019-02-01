@@ -4,10 +4,10 @@ Udacity Deep Learning Nanodegree program 2019. In this project, I develop an alg
 ## Project Overview
 In this project, I built a recurrent neural network (RNN) that can generate new [Simpsons](https://en.wikipedia.org/wiki/The_Simpsons) TV scripts. The Neural Network you'll build will generate a new "fake" TV script.
 
-The project there is five steps:
+The project there are five steps:
 - _Step 1:_ Implement Preprocessing Functions
- - Lookup Table
- - Tokenize Punctuation
+  - Lookup Table
+  - Tokenize Punctuation
 - _Step 2:_ Build the Neural Network
   - Input Function
   - Functions to Build RNN Cell and Initialize
