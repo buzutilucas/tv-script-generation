@@ -2,7 +2,7 @@
 Udacity Deep Learning Nanodegree program 2019. In this project, I develop an algorithm for television script generation.
 
 ## Project Overview
-In this project, I built a recurrent neural network (RNN) that can generate new [Simpsons](https://en.wikipedia.org/wiki/The_Simpsons) TV scripts. The Neural Network you'll build will generate a new "fake" TV script.
+In this project, I built a recurrent neural network (RNN) that can generate new [Simpsons](https://en.wikipedia.org/wiki/The_Simpsons) TV scripts. The Neural Network I built will generate a new "fake" TV script.
 
 The project there are five steps:
 - _Step 1:_ Implement Preprocessing Functions
